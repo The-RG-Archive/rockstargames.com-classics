@@ -1,4 +1,4 @@
-![Icon](/rockstargames-classics-free-download.jpg)
+![Icon](files/rockstargames-classics-free-download.jpg)
 
 # Rockstar Games Classics Website
 
