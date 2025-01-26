@@ -1,5 +1,6 @@
-![Icon](files/rockstargames-classics-free-download.jpg)
-
 # Rockstar Games Classics Website
 
-Website:WIP
+## About this page
+It was pulled from a third party recreation and cleaned up it links to our mega archives as the files can not be hosted here.
+
+##Website:WIP
